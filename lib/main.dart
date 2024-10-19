@@ -164,6 +164,8 @@ class HomeActivity extends StatelessWidget {
                   title: Text("Home")),
               ListTile(leading: Icon(Icons.contact_mail),
                   title: Text("Contact")),
+              ListTile(leading: Icon(Icons.phone),
+                  title: Text("Phone"))
             ],
           )
       ),
